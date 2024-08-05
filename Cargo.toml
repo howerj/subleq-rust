@@ -2,6 +2,12 @@
 name = "subleq"
 version = "0.0.1"
 authors = ["Richard James Howe <howe.r.j.89@gmail.com>"]
+edition = '2021'
+description = "A 16-bit SUBLEQ loaded with an eForth image"
+readme = "readme.md"
+repository = "https://github.com/howerj/subleq-rust"
+license = "MIT"
+license-file = "LICENSE"
 
 [lib]
 name = "subleq"
