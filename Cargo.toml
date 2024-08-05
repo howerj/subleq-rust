@@ -1,0 +1,10 @@
+[package]
+name = "subleq"
+version = "0.0.1"
+authors = ["Richard James Howe <howe.r.j.89@gmail.com>"]
+
+[lib]
+name = "subleq"
+path = "src/subleq.rs"
+
+
