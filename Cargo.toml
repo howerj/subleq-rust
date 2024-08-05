@@ -8,6 +8,7 @@ readme = "readme.md"
 repository = "https://github.com/howerj/subleq-rust"
 license = "MIT"
 license-file = "LICENSE"
+keywords = ["vm", "subleq", "forth", "eforth"]
 
 [lib]
 name = "subleq"
