@@ -1,7 +1,7 @@
 * Author: Richard James Howe
 * Email: <mailto:howe.r.j.89@gmail.com>
 * Repo: <https://github.com/howerj/subleq-rust>
-* License: MIT
+* License: 0BSD
 
 A 16-bit SUBLEQ VM written in rust, it contains a working eForth interpreter,
 this comes from another project of mine available at

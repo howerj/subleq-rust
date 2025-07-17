@@ -43,9 +43,9 @@ fn fgetc(input: &mut dyn Read) -> u16 {
 	if 1 == input.read(&mut u).unwrap() { u[0] as u16 } else { 0xffff }
 }
 
-/// # SUBLEQ Virtual Machine in Rust
+/// # 16-bit SUBLEQ Virtual Machine in Rust
 ///
-/// * LICENSE:    MIT
+/// * LICENSE:    0BSD
 /// * AUTHOR:     Richard James Howe
 /// * COPYRIGHT:  Richard James Howe (2024)
 /// * CONTACT:    <howe.r.j.89@gmail.com>
